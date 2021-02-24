@@ -3,7 +3,7 @@ layout: default
 title: About me
 nav_order: 1
 ---
-<img src='./Hojin.png' align='center'/>  
+<img src='./Hojin.png' align='center'/ height="40%" width="40%">  
 
 - Full Name      : Hojin Son  
 - Organization   : GIST(Gwangu Institue of Science and Technology)  

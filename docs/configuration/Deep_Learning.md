@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Leep Learning
+title: Deep Learning
 nav_order: 1
 ---
 
-# Theme Configuration
+# Deep Learning
 
 The docs should have an index page.
 
-## Generic _config.yml configuration
+## MLP (Multi-Layer Perceptron)
 
 
 ```yml

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Theme Configuration
+title: Leep Learning
 nav_order: 1
 ---
 

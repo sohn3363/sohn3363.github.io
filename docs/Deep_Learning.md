@@ -38,5 +38,5 @@ google_analytics_anonymize_ip: true
 hljs_style: github-gist
 ```
 
-## 4.RNN(Recurrent Neural Networks)
+## 3.RNN(Recurrent Neural Networks)
 

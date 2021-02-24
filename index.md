@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-Name           : Hojin Son
+Full Name      : Hojin Son
 Organization   : GIST(Gwangu Institue of Science and Technology)
 Mobile         : +82)010-3363-3327
 E-mail         : sohn3363@gm.gist.ac.kr

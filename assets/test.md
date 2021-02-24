@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Object Detection
+title: test
 nav_exclude: true
 ---
 

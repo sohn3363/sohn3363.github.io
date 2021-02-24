@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Local Development Index Page
+title: About me
 nav_order: 1
 ---
 
-# Local Development Index Page
 
-This index page is only visible if developing the theme as Jekyll is served
-from the repository top directory.
+Name           : Hojin Son
+Organization   : GIST(Gwangu Institue of Science and Technology)
+Mobile         : +82)010-3363-3327
+E-mail         : sohn3363@gm.gist.ac.kr
+Research Field : Image Recognition, Image Restoration
+Future         : ETRI(Electronics and Telecommunications Research Institue)
 
-The Docs folder index page can be reached following
-[this link](docs/index.html).
-
-In the normal GitHub Pages deployment the Docs index can be reached clicking
-on the home link at the top of the left navigation bar.
+My Laboratory hompage can available at [this link](https://nsl.gist.ac.kr).

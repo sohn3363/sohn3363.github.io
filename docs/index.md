@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Index
+title: Object Detection
 nav_exclude: true
 ---
 
-# Read The Docs Theme for Jekyll and GitHub Pages
+# Object Detection
 
 This is a port of the
 [Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to

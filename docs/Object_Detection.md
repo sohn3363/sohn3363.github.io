@@ -23,7 +23,7 @@ designed specifically for docs.
 Combined with [GitHub Pages](https://pages.github.com) it's a great and easy
 way to document your projects!
 
-## What Can You Find Around Here
+## YOLO V2
 
 - Check out the [Quick Start Guide](https://carlosperate.github.io/jekyll-theme-rtd/quickstart.html) to get up and running.
 - If some of the terms thrown around here don't make a lot of sense, check out the [What is All This? (FAQs)](https://carlosperate.github.io/jekyll-theme-rtd/faqs.html) page.
@@ -32,7 +32,7 @@ way to document your projects!
   and the [Pages Configuration](https://carlosperate.github.io/jekyll-theme-rtd/configuration/frontmatter.html)
   pages.
 
-## 🚧 Warning!
+## YOLO V3
 
 This theme is currently a **Work-In-Progress** but, while some things might be
 broken, it should be already usable.

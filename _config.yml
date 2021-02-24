@@ -1,4 +1,4 @@
-title: Read The Docs Jekyll Theme
+title: Hojin's AI Blog
 description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
 
 # Development server config, needed to load some of the content
@@ -7,7 +7,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 
 # Theme settings
-site_author: Carlos Pereira Atencio
+site_author: Hojin Son
 repo_url: 'https://github.com/sohn3363/sohn3363.github.io'
 edit_on_github: true
 github_docs_folder: false

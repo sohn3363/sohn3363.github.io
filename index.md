@@ -3,7 +3,8 @@ layout: default
 title: About me
 nav_order: 1
 ---
-<img src='C:/Users/user/Desktop/Hojin.png' align='center'/>
+<img src='C:/Users/user/Desktop/Hojin.png' align='center'/>  
+
 - Full Name      : Hojin Son  
 - Organization   : GIST(Gwangu Institue of Science and Technology)  
 - Mobile         : +82) 010-3363-3327  

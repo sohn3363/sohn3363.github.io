@@ -8,7 +8,7 @@ nav_order: 1
 
 The docs should have an index page.
 
-## MLP (Multi-Layer Perceptron)
+## MLP(Multi-Layer Perceptron)
 
 
 ```yml
@@ -16,7 +16,7 @@ title: Read The Docs Jekyll Theme
 description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
 ```
 
-## Theme Specific Configuration 
+## CNN(Convolutional Neural Networks)
 
 ```yml
 # Specific to this theme
@@ -37,3 +37,6 @@ google_analytics_anonymize_ip: true
 # The highlight.js library provides 79 different colours for their syntax highlighting. The default is github-gist.
 hljs_style: github-gist
 ```
+
+## RNN(Recurrent Neural Networks)
+

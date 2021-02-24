@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Object Detection
-nav_exclude: true
+nav_order: 3
 ---
 
 # Object Detection

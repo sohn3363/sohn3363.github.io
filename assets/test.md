@@ -1,7 +1,7 @@
 ---
 layout: default
 title: test
-nav_exclude: true
+nav_order: 1
 ---
 
 # test

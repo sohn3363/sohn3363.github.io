@@ -1,3 +1,9 @@
+---
+layout: default
+title: GAN
+nav_order: 4
+---
+
 # Docker
 - 2021.02.24 Updated
 - source from: (https://leesungjae-git.github.io/).

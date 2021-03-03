@@ -10,11 +10,6 @@ nav_order: 2
 ### 1) GAN의 목적
 GAN은 실제 data distribution과 random noise(normal dristribution, uniform distribution)를 입력으로하여 실제 data distribution과 유사한 임의의 distribution을 생성(출력)하기 위한 모델.  
 ### 2) GAN Network 구조
-#### 2-1) GAN의 구조의 flow
-
-#### 2-2) Generative network 구조
-
-#### 2-3) Discriminator network 구조
 
 
 ## 2.DCGAN

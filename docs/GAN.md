@@ -12,6 +12,8 @@ GAN은 실제 data distribution과 random noise(normal dristribution, uniform di
 ### 2) GAN Network 구조
 <img src='/figure/GAN_Architecture.png' height="50%" width="50%" align="center"/>  
 
+### 3) Objective function 
+
 ## 2.DCGAN
 
 ## 3. WGAN

@@ -16,10 +16,10 @@ nav_order: 4
    > * docker pull <image_name>
 
 ### 3) Image check  
-   > docker images  
+   > * docker images  
 
 ### 4) Make container 
-   > docker run -itd --name <container_name> -v </root of local folder:/root of docker folder> -p <nnnn:nnnn> --gpus all
+   > * docker run -itd --name <container_name> -v </root of local folder:/root of docker folder> -p <nnnn:nnnn> --gpus all
    > > -v : (Sharing) sharing local folder to docker folder  
    > > -p : (Connection) connect local port to docker port  
    > > --gpus all: allocate all gpus 

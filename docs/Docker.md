@@ -8,6 +8,8 @@ nav_order: 4
 - 2021.02.24 Updated
 - source from: (https://leesungjae-git.github.io/).
 
+---
+
 ## 1. Make Container
 ### 1) Find docker image  
    > * docker search pytorch  
@@ -26,7 +28,9 @@ nav_order: 4
 
 ### 5) Contatiner execution  
    > * docker exec -it <container_name> bash
-   
+
+---
+
 ## 2. Jupyter Notebook in Docker
 ### 1) Jupyter Notebook installation
    > * conda install jupyter  
@@ -36,3 +40,5 @@ nav_order: 4
    > > --ip=0.0.0.0 : automatic IP allocate
    > > --port=nnnn : your docker port
    > > --allow-root : allow adnimistrator option
+
+---

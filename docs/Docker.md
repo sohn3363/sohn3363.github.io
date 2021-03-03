@@ -15,7 +15,7 @@ nav_order: 4
    > * docker search pytorch  
 
 ### 2) Download docker image  
-   > * docker pull <image_name>
+   > * 'docker pull <image_name>'
 
 ### 3) Image check  
    > * docker images  
@@ -36,9 +36,9 @@ nav_order: 4
    > * conda install jupyter  
 
 ### 2) Jupyter Notebook excution
-   > * jupyter notebook --ip=0.0.0.0 --port=nnnn --allow-root
-   > > --ip=0.0.0.0 : automatic IP allocate
-   > > --port=nnnn : your docker port
-   > > --allow-root : allow adnimistrator option
+   > * jupyter notebook --ip=0.0.0.0 --port=nnnn --allow-root  
+   > > --ip=0.0.0.0 : automatic IP allocate  
+   > > --port=nnnn : your docker port  
+   > > --allow-root : allow adnimistrator option  
 
 ---

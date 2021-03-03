@@ -6,7 +6,7 @@ nav_order: 2
 
 # GAN
 
-## 1.GAN
+## 1. GAN
 
 Well, you don't! For a quick walkthrough to get your docs up an running with
 this theme see the [Quick Start Guide](quickstart.html).
@@ -49,18 +49,18 @@ For a project that is already in GitHub nothing beats the simplicity of GitHub
 Pages, and so this theme is a port of Read The Docs Sphinx theme to Jekyll, so
 that it can be easily used with GitHub Pages.
 
-## 3.WGAN
+## 3. WGAN
 
-## 4.CGAN
+## 4. CGAN
 
-## 5.CycleGAN
+## 5. CycleGAN
 
-## 6.StarGAN
+## 6. StarGAN
 
-## 7.SSGAN
+## 7. SSGAN
 
-## 8.SRGAN
+## 8. SRGAN
 
-## 9.DeshuffleGAN
+## 9. DeshuffleGAN
 
-## 10.EBGAN
+## 10. EBGAN

@@ -9,7 +9,7 @@ nav_order: 4
 - source from: (https://leesungjae-git.github.io/).
 
 ## 1. Make Container
-### 1) Find docker image
+### 1) Find docker image  
    > docker search pytorch  
 ### 2) Download docker image  
    > docker pull <image_name>  

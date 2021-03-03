@@ -13,6 +13,7 @@ GAN은 실제 data distribution과 random noise(normal dristribution, uniform di
 <img src='/figure/GAN_Architecture.png' height="50%" width="50%" align="center"/>  
 
 ### 3) Objective function 
+<img src='/figure/GAN_Objective_function.png' height="50%" width="50%" align="center"/>  
 
 ## 2.DCGAN
 

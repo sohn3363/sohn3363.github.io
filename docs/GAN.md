@@ -6,7 +6,7 @@ nav_order: 2
 
 # GAN
 
-## GAN
+## 1.GAN
 
 Well, you don't! For a quick walkthrough to get your docs up an running with
 this theme see the [Quick Start Guide](quickstart.html).
@@ -43,19 +43,24 @@ you still have to set up a Sphinx project, a Read The Docs account, and
 configure the integration to automatically publish your documentation from
 your GitHub repository.
 
-## DCGAN
+## 2.DCGAN: Deep Convolutional Generative Adversarial Network
 
 For a project that is already in GitHub nothing beats the simplicity of GitHub
 Pages, and so this theme is a port of Read The Docs Sphinx theme to Jekyll, so
 that it can be easily used with GitHub Pages.
 
-## SRGAN
+## 3.WGAN
 
-We don't have Frequently Asked Questions yet, if you have any please
-[open a new issue in the theme GitHub repository](https://github.com/carlosperate/jekyll-theme-rtd/issues/new).
+## 4.CGAN
 
-## cGAN
+## 5.CycleGAN
 
-## CycleGAN
+## 6.StarGAN
 
-## StarGAN
+## 7.SSGAN
+
+## 8.SRGAN
+
+## 9.DeshuffleGAN
+
+## 10.EBGAN

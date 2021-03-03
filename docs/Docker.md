@@ -31,8 +31,6 @@ nav_order: 4
 ### 1) Jupyter Notebook installation
    > * conda install jupyter  
 
----
-
 ### 2) Jupyter Notebook excution
    > * jupyter notebook --ip=0.0.0.0 --port=nnnn --allow-root
    > > --ip=0.0.0.0 : automatic IP allocate

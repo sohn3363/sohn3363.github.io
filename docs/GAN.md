@@ -10,10 +10,10 @@ nav_order: 2
 ### 1) GAN의 목적
 GAN은 실제 data distribution과 random noise(normal dristribution, uniform distribution)를 입력으로하여 실제 data distribution과 유사한 임의의 distribution을 생성(출력)하기 위한 모델.  
 ### 2) GAN Network 구조
-<img src='/figure/GAN_Architecture.png' height="50%" width="50%" align="center"/>  
+<img src='/figure/GAN_Architecture.png' height="80%" width="80%" align="center"/>  
 
 ### 3) Objective function 
-<img src='/figure/GAN_Objective_function.png' height="50%" width="50%" align="center"/>  
+<img src='/figure/GAN_Objective_function.png' height="80%" width="80%" align="center"/>  
 
 ## 2.DCGAN
 

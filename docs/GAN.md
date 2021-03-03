@@ -43,7 +43,7 @@ you still have to set up a Sphinx project, a Read The Docs account, and
 configure the integration to automatically publish your documentation from
 your GitHub repository.
 
-## 2.DCGAN: Deep Convolutional Generative Adversarial Network
+## 2.DCGAN
 
 For a project that is already in GitHub nothing beats the simplicity of GitHub
 Pages, and so this theme is a port of Read The Docs Sphinx theme to Jekyll, so

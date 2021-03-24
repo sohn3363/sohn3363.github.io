@@ -51,4 +51,4 @@ nav_order: 4
 
 ### 3) Total Variation
 
-### 4) Earth Mover Distance
+### 4) Earth Mover(Wasserstein Distance)

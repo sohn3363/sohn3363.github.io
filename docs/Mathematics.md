@@ -21,9 +21,9 @@ nav_order: 4
   
 - KL Divergence 은 3가지 수학적 특징이 존재한다.
 
->> 1. KL Divergence는 항상 0 이상의 값을 갖는다.
->> 2. KL Divergence는 비대칭함수이다.
->> 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.
+> 1. KL Divergence는 항상 0 이상의 값을 갖는다.
+> 2. KL Divergence는 비대칭함수이다.
+> 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.
 ### 2) Jensen-Shanon Divergence
 a
 ### 3) Total Variation

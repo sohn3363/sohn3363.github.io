@@ -17,7 +17,7 @@ nav_order: 4
 - **p**와 **q**의 일반적인 의미로 **p**는 참 분포(True Distribution) 즉, 실제 관찰 데이터(Observation)을 의미한다. **q**는 주로 가설(Theory), 모델(Model), **p**의 근사(Approximation)로 사용된다.  
 - q를 p에 가깝게 만드려면 KL Divergence를 최소화하도록 학습시키면 된다. KL Divergence의 공식은 아래와 같다.
 
-<p align="center"><img src='/figure/formula/KLD.PNG' height="50%" width="50%"></p>  
+<p align="center"><img src='/figure/formula/KLD.PNG' height="45%" width="45%"></p>  
   
 - KL Divergence 은 3가지 수학적 특징이 존재한다.
 

@@ -23,7 +23,11 @@ nav_order: 4
 
 > 1. KL Divergence는 항상 0 이상의 값을 갖는다.
 > 2. KL Divergence는 비대칭함수이다.
-> 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.
+> 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.  
+
+- KL Divergence를 Entropy 식으로 표현하면 아래와 같다.
+<p align="center"><img src='/figure/formula/KLD_divide.PNG' height="50%" width="50%"></p> 
+
 ### 2) Jensen-Shanon Divergence
 a
 ### 3) Total Variation

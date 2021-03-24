@@ -31,6 +31,7 @@ nav_order: 4
 
 <p align="center"><img src='/figure/formula/KLD_divide2.PNG' height="70%" width="70%"></p> 
 
+---
 
 ### 2) Jensen-Shanon Divergence
 - Jensen Shanon은 KL Divergence를 Distance Metric으로 해석할 수 있는 방법이다.

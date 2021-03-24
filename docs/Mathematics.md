@@ -44,7 +44,7 @@ nav_order: 4
 > 2. KL Divergence는 **대칭함수**이다.
 > 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.  
 
-<p align="center"><img src='/figure/formula/KL_JS_symmetric.PNG' height="45%" width="45%"></p>  
+<p align="center"><img src='/figure/formula/KL_JS_symmetric.PNG' height="30%" width="30%"></p>  
 
 ### 3) Total Variation
 

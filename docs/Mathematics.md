@@ -12,10 +12,10 @@ nav_order: 4
 ## 1. Different Distances
 
 ### 1) Kullback-Leibler Divergence
-- KL Divergence는 두 확률 분포를 비교하기 위해 사용된다. KL Divergence의 공식은 아래와 같다.  
+- KL Divergence는 두 확률 분포를 비교하기 위해 사용된다.  
 - Bayesian Inference에서의 KL-Divergence의 의미로 **q**는 사전확률분포, **p**는 사후확률분포이다. 이때, **KL(p∥q)** 는 사전확률에서 사후확률로 변할때 얻은 정보의 양으로 해석할 수 있다.  
 - **p**와 **q**의 일반적인 의미로 **p**는 참 분포(True Distribution) 즉, 실제 관찰 데이터(Observation)을 의미한다. **q**는 주로 가설(Theory), 모델(Model), **p**의 근사(Approximation)로 사용된다.  
-- q를 p에 가깝게 만드려면 KL Divergence를 최소화하도록 학습시키면 된다.
+- q를 p에 가깝게 만드려면 KL Divergence를 최소화하도록 학습시키면 된다. KL Divergence의 공식은 아래와 같다.
 
 <p align="center"><img src='/figure/formula/KLD.PNG' height="50%" width="50%"></p>  
   
@@ -25,8 +25,9 @@ nav_order: 4
 > 2. KL Divergence는 비대칭함수이다.
 > 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.  
 
-- KL Divergence를 Entropy 식으로 표현하면 아래와 같다.
-<p align="center"><img src='/figure/formula/KLD_divide.PNG' height="50%" width="50%"></p> 
+- KL Divergence를 정보 엔트로피와 크로스 엔트로피의 합의 공식으로 표현할 수 있으며 아래와 같다.  
+
+<p align="center"><img src='/figure/formula/KLD_divide.PNG' height="70%" width="70%"></p> 
 
 ### 2) Jensen-Shanon Divergence
 a

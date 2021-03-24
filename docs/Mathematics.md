@@ -47,6 +47,8 @@ nav_order: 4
 
 <p align="center"><img src='/figure/formula/KL_JS_symmetric.PNG' height="25%" width="25%"></p>  
 
+---
+
 ### 3) Total Variation
 
 ### 4) Earth Mover Distance

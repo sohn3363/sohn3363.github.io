@@ -6,7 +6,7 @@ nav_order: 4
 
 # Mathematics
 - 2021.03.24 Updated
-- source from: (https://brunch.co.kr/@chris-song/69).
+- source from: (<https://brunch.co.kr/@chris-song/69>)
 
 ---
 ## 1. Different Distances

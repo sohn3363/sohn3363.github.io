@@ -34,7 +34,7 @@ nav_order: 4
 
 ### 2) Jensen-Shanon Divergence
 - Jensen Shanon은 KL Divergence를 Distance Metric으로 해석할 수 있는 방법이다.
-- 이는 p와 q의 평균값과 각각 KL Divergence하여 대칭 성질을 획득함으로써 Distance를 통한 척도로 활용한다.
+- 이는 p와 q의 평균값과 각각 KL Divergence하여 대칭 성질을 획득함으로써 Distance 척도로 활용한다.
 
 <p align="center"><img src='/figure/formula/JSD.PNG' height="65%" width="65%"></p>  
 

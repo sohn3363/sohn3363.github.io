@@ -26,7 +26,7 @@ nav_order: 4
 > 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.  
 
 - KL Divergence를 엔트로피와 크로스 엔트로피의 합의 공식으로 표현하여 두 분포의 차이를 나타낸다. 
-- **H(p)** 는 고정된 상수값이기 때문에 결과적으로 **H(p,q)** 를 **H(p)** 에 근사하는 것이 KL-Divergence를 minimize하는 것의 의미는 동일하다.  
+- **H(p)** 는 고정된 상수값이기 때문에 결과적으로 **H(p,q)** 를 **H(p)** 에 근사(최소화)하는 것이 KL-Divergence를 minimize하는 것의 의미는 동일하다.  
 - p에서 q 사이의 거리와 q에서 p사이의 거리가 같다면 두 확률분포 는 거리 개념으로 이해할 수 있지만, KL Divergence는 비대칭 성질이 존재하여 거리 개념처럼 사용 할 수 없다.  
 
 <p align="center"><img src='/figure/formula/KLD_divide2.PNG' height="70%" width="70%"></p> 

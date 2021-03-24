@@ -25,7 +25,7 @@ nav_order: 4
 > 2. KL Divergence는 비대칭함수이다.
 > 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.  
 
-- KL Divergence를 정보 엔트로피와 크로스 엔트로피의 합의 공식으로 표현할 수 있으며 아래와 같다.  
+- KL Divergence를 엔트로피와 크로스 엔트로피의 합의 공식으로 표현할 수 있으며 아래와 같다.  
 
 <p align="center"><img src='/figure/formula/KLD_divide.PNG' height="70%" width="70%"></p> 
 

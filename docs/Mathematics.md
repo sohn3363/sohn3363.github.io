@@ -12,7 +12,8 @@ nav_order: 4
 ## 1. Different Distances
 
 ### 1) Kullback-Leibler Divergence
-
+KL Divergence는 두 확률 분포를 비교하기 위해 사용된다. KL Divergence의 공식은 아래와 같다.
+<img src='/figure/formula/KLD.png' height="90%" width="90%" align="center"/>
 ### 2) Jensen-Shanon Divergence
 
 ### 3) Total Variation

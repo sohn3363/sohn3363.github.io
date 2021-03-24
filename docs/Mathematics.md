@@ -40,9 +40,9 @@ nav_order: 4
 
 - Jensen-Shanon 은 3가지 수학적 성질을 갖는다.  
 
-> 1. KL Divergence는 항상 0 이상의 값을 갖는다.
-> 2. KL Divergence는 **대칭함수**이다.
-> 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.  
+> 1. JS Divergence는 항상 0 이상의 값을 갖는다.
+> 2. JS Divergence는 **대칭함수**이다.
+> 3. JS Divergence는 두 확률 분포가 동일할 때 0이 된다.  
 
 <p align="center"><img src='/figure/formula/KL_JS_symmetric.PNG' height="25%" width="25%"></p>  
 

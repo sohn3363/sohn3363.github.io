@@ -28,7 +28,7 @@ nav_order: 4
 - KL Divergence를 엔트로피와 크로스 엔트로피의 합의 공식으로 표현할 수 있으며 아래와 같다.  
 - H(p)는 고정된 상수값이기 때문에 결과적으로 H(p,q)를 minimize하는 것이 KL-Divergence를 minimize하는 것과 동일하다.  
 
-<p align="center"><img src='/figure/formula/KLD_divide.PNG' height="70%" width="70%"></p> 
+<p align="center"><img src='/figure/formula/KLD_divide2.PNG' height="70%" width="70%"></p> 
 
 
 ### 2) Jensen-Shanon Divergence

@@ -19,7 +19,7 @@ nav_order: 4
 
 <p align="center"><img src='/figure/formula/KLD.PNG' height="45%" width="45%"></p>  
   
-- KL Divergence 은 3가지 수학적 성질이 존재한다.
+- KL-Divergence 은 3가지 수학적 성질을 갖는다.
 
 > 1. KL Divergence는 항상 0 이상의 값을 갖는다.
 > 2. KL Divergence는 비대칭함수이다.
@@ -33,8 +33,19 @@ nav_order: 4
 
 
 ### 2) Jensen-Shanon Divergence
-- Jensen Shanon은 KL Divergence를 Distance Metric으로 해석할 수 있는 방법으로 p와 q의 평균값을 의미하는 M과 각각 KL Divergence하고 대칭함수 성질을 획득하여 Distance를 통한 척도로 활용한다.  
- 
+- Jensen Shanon은 KL Divergence를 Distance Metric으로 해석할 수 있는 방법이다.
+- 이는 p와 q의 평균값과 각각 KL Divergence하여 대칭 성질을 획득함으로써 Distance를 통한 척도로 활용한다.
+
+<p align="center"><img src='/figure/formula/JSD.PNG' height="45%" width="45%"></p>  
+
+- Jensen-Shanon 은 3가지 수학적 성질을 갖는다.  
+
+> 1. KL Divergence는 항상 0 이상의 값을 갖는다.
+> 2. KL Divergence는 **대칭함수**이다.
+> 3. KL Divergence는 두 확률 분포가 동일할 때 0이 된다.  
+
+<p align="center"><img src='/figure/formula/KL_JS_symmetric.PNG' height="45%" width="45%"></p>  
+
 ### 3) Total Variation
 
 ### 4) Earth Mover Distance

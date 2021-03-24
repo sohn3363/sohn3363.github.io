@@ -19,7 +19,7 @@ nav_order: 4
 
 <p align="center"><img src='/figure/formula/KLD.PNG' height="45%" width="45%"></p>  
   
-- KL Divergence 은 3가지 수학적 특징이 존재한다.
+- KL Divergence 은 3가지 수학적 성질이 존재한다.
 
 > 1. KL Divergence는 항상 0 이상의 값을 갖는다.
 > 2. KL Divergence는 비대칭함수이다.
@@ -27,12 +27,14 @@ nav_order: 4
 
 - KL Divergence를 엔트로피와 크로스 엔트로피의 합의 공식으로 표현하여 두 분포의 차이를 나타낸다. 
 - **H(p)** 는 고정된 상수값이기 때문에 결과적으로 **H(p,q)** 를 minimize하는 cross-entropy와 같이 KL-Divergence를 minimize하는 것의 의미는 동일하다.  
+- p에서 q 사이의 거리와 q에서 p사이의 거리가 같다면 두 확률분포 는 거리 개념으로 이해할 수 있지만, KL Divergence는 비대칭적 특징이 존재하여 거리 개념처럼 사용 할 수 없다.  
 
 <p align="center"><img src='/figure/formula/KLD_divide2.PNG' height="70%" width="70%"></p> 
 
 
 ### 2) Jensen-Shanon Divergence
-a
+- Jensen Shanon은 KL Divergence를 Distance Metric으로 해석할 수 있는 방법으로 p와 q의 평균값을 의미하는 M과 각각 KL Divergence하고 대칭함수 성질을 획득하여 Distance를 통한 척도로 활용한다.  
+ 
 ### 3) Total Variation
 
 ### 4) Earth Mover Distance

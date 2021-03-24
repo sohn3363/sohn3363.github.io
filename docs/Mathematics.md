@@ -9,3 +9,11 @@ nav_order: 4
 - source from: ().
 
 ---
+
+1) Kullback-Leibler Divergence
+
+2) Jensen-Shanon Divergence
+
+3) Total Variation
+
+4) Earth Mover Distance

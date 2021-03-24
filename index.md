@@ -3,7 +3,7 @@ layout: default
 title: About me
 nav_order: 1
 ---
-<img src='./Hojin.png' height="40%" width="40%" align="center"/>  
+<align="center"/><img src='./Hojin.png' height="40%" width="40%"></p>  
 
 # About me
 - Full Name      : Hojin Son  

@@ -40,7 +40,11 @@ hljs_style: github-gist
 
 ## 3. RNN(Recurrent Neural Networks)
 
+---
 ## 4. Multi-GPU(Data Parallel)  
-- Pytorch DataParallel
 
+### 1) Pytorch DataParallel  
 
+### 2) Pytorch Custom DataParallel  
+
+---

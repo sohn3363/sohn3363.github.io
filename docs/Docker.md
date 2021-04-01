@@ -24,7 +24,7 @@ nav_order: 5
    > * docker run -itd --name \<container_name> -v </root of local folder:/root of docker folder> -p <nnnn:nnnn> \--gpus all
    > > -v : (Sharing) sharing local folder to docker folder  
    > > -p : (Connection) connect local port to docker port  
-   > > \--gpus all: allocate all gpus 
+   > > '\'--gpus all: allocate all gpus 
 
 ### 5) Contatiner execution  
    > * docker exec -it <container_name> bash

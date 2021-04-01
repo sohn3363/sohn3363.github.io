@@ -21,7 +21,7 @@ nav_order: 5
    > * docker images  
 
 ### 4) Make container 
-   > * docker run -itd --name \<container_name> -v </home/hojin/share:/root/share> -p \<nnnn:nnnn> \--gpus all \--restart=always \<image>
+   > * docker run -itd --name \<hojin> -v </home/hojin/share:/root/share> -p \<nnnn:nnnn> \--gpus all \--restart=always \<pytorch/pytorch>
    > > -v : (Sharing) sharing local folder to docker folder  
    > > -p : (Connection) connect local port to docker port  
    > > \--gpus all: allocate all gpus 

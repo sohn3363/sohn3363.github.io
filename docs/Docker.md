@@ -28,6 +28,12 @@ nav_order: 5
 
 ### 5) Contatiner execution  
    > * docker exec -it \<container_name> bash
+  
+### 6) Container check
+   > * docker ps -a
+  
+### 7) Container Remove
+   > * docker rm \<hojin>
 
 ---
 

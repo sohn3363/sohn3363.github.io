@@ -8,7 +8,7 @@ nav_order: 1
 
 The docs should have an index page.
 
-## 1.MLP(Multi-Layer Perceptron)
+## 1. MLP(Multi-Layer Perceptron)
 
 
 ```yml
@@ -16,7 +16,7 @@ title: Read The Docs Jekyll Theme
 description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
 ```
 
-## 2.CNN(Convolutional Neural Networks)
+## 2. CNN(Convolutional Neural Networks)
 
 ```yml
 # Specific to this theme
@@ -38,5 +38,9 @@ google_analytics_anonymize_ip: true
 hljs_style: github-gist
 ```
 
-## 3.RNN(Recurrent Neural Networks)
+## 3. RNN(Recurrent Neural Networks)
+
+## 4. Multi-GPU(Data Parallel)  
+- Pytorch DataParallel
+
 

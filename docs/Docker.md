@@ -27,7 +27,7 @@ nav_order: 5
    > > \--gpus all: allocate all gpus 
 
 ### 5) Contatiner execution  
-   > * docker exec -it <container_name> bash
+   > * docker exec -it \<container_name> bash
 
 ---
 
@@ -36,9 +36,9 @@ nav_order: 5
    > * conda install jupyter  
 
 ### 2) Jupyter Notebook excution
-   > * jupyter notebook --ip=0.0.0.0 --port=nnnn --allow-root  
-   > > --ip=0.0.0.0 : automatic IP allocate  
-   > > --port=nnnn : your docker port  
-   > > --allow-root : allow adnimistrator option  
+   > * jupyter notebook --ip=0.0.0.0 --port=\<nnnn> --allow-root  
+   > > \--ip=0.0.0.0 : automatic IP allocate  
+   > > \--port=\<nnnn> : your docker port  
+   > > \--allow-root : allow adnimistrator option  
 
 ---
